@@ -9,5 +9,6 @@ Python file in /usr/local/lib/python_demo_service/python_demo_service.py done by
 ```
 sudo systemctl daemon-reload
 sudo systemctl start python_demo_service
-sudo systemctl  start python_demo_service
+sudo systemctl status python_demo_service
+sudo journalctl -fu python_demo_service
 ```
