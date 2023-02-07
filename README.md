@@ -1,4 +1,4 @@
-# Writing a systemd Service in Python
+# Writing a very basic systemd Service in Python
 
 Tested on Ubuntu 22.04.1 LTS/jammy
 
